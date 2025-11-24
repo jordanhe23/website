@@ -121,7 +121,7 @@ const About: React.FC = () => {
                 Prior to joining Texas Windstorm, I was a consulting actuary for <strong className="text-neutral-900 dark:text-white font-semibold">12 years</strong>, where I served a diverse range of clients—from traditional insurers and reinsurers to captives, large corporates, public entities, and self-insured risk pools. My work encompassed loss reserving, insurance pricing, capital modeling, simulation modeling, experience rating, and risk financing.
               </p>
               <p>
-                Outside the boardroom, I'm a self-taught coder passionate about data science and machine learning. I tinker with projects in my spare time to stay ahead of analytics trends.
+                Outside of work, I'm a self-taught coder passionate about data science and machine learning. I tinker with projects in my spare time to stay ahead of analytics trends.
               </p>
             </div>
           </div>
