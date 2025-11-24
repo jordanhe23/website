@@ -88,7 +88,7 @@ const About: React.FC = () => {
                {/* Main Image */}
                <div className="w-full h-full rounded-full overflow-hidden border-[6px] border-white dark:border-neutral-900 shadow-2xl relative z-10">
                  <img 
-                   src="https://jordanhe23.github.io/homepage.github.io/pics/Headshot.JPG" 
+                   src="./pics/Headshot.JPG" 
                    alt="Jordan He" 
                    className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700 ease-in-out"
                  />

@@ -112,7 +112,7 @@ const Hero: React.FC = () => {
         </p>
         
         <a 
-          href="https://jordanhe23.github.io/homepage.github.io/Jordan%20He%20-%20Resume.pdf"
+          href="./docs/Jordan%20He%20-%20Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block px-8 py-4 bg-neutral-900 dark:bg-white text-white dark:text-black rounded-full font-semibold text-sm tracking-wide transition-all duration-300 hover:transform hover:-translate-y-1 hover:shadow-lg shadow-sm animate-fade-in-up delay-300"
